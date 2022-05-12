@@ -1,0 +1,2 @@
+C:\FSG_220510_kjh\C-Language_Console_Game\.git\escape\Debug\escape.exe
+C:\FSG_220510_kjh\C-Language_Console_Game\escape\Debug\escape.exe
